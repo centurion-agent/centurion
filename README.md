@@ -32,5 +32,6 @@ X: **@CenturionAgent**
 
 ## Developer
 
-**Sergey Nazarenko**  
+**Centurion Agent Team**  
+
 Founder & Developer — Centurion
