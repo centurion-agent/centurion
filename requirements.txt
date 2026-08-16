@@ -1,0 +1,2 @@
+# Centurion currently uses Python standard library only.
+# Production inference dependencies will be added with backend integration.
